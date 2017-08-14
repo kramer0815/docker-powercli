@@ -15,4 +15,4 @@ RUN mv /opt/shibboleth/lib64/libcurl.so.4.3.0 /usr/lib64
 #RUN chmod 755 /sbin/entrypoint.sh
 
 #ENTRYPOINT ["/sbin/entrypoint.sh"]
-CMD["/bin/bash", "powershell"]
+CMD ["/bin/bash", "powershell"]
