@@ -1,2 +1,2 @@
 # docker-powercli
-dockerized PowerCli 
+dockerized PowerCli (in progress)
